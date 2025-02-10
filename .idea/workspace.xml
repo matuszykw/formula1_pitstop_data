@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87362c05-5645-4591-8aac-90ddaa9be0c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Formula1Data.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="87362c05-5645-4591-8aac-90ddaa9be0c6" name="Changes" comment="fetching data via fastf1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/matuszykw/formula1_pitstop_data.git",
+    "accountId": "ec1a3872-0dd1-431d-9113-4ddfc9cc0310"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 4
@@ -61,11 +58,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739196107737</updated>
-      <workItem from="1739196109154" duration="6115000" />
+      <workItem from="1739196109154" duration="6623000" />
     </task>
+    <task id="LOCAL-00001" summary="fetching data via fastf1">
+      <option name="closed" value="true" />
+      <created>1739204348840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739204348840</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fetching data via fastf1" />
+    <option name="LAST_COMMIT_MESSAGE" value="fetching data via fastf1" />
   </component>
 </project>
