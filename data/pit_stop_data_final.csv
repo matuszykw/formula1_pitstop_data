@@ -1,0 +1,731 @@
+Race,Driver,Team,GridPosition,Position,Lap,TyreBefore,TyreAfter,PitDuration
+Bahrain Grand Prix,VER,Red Bull Racing,1,1,17,SOFT,HARD,25.088
+Bahrain Grand Prix,VER,Red Bull Racing,1,1,37,HARD,SOFT,24.218
+Bahrain Grand Prix,PER,Red Bull Racing,5,2,12,SOFT,HARD,24.493
+Bahrain Grand Prix,PER,Red Bull Racing,5,2,36,HARD,SOFT,24.423
+Bahrain Grand Prix,SAI,Ferrari,4,3,14,SOFT,HARD,24.58
+Bahrain Grand Prix,SAI,Ferrari,4,3,35,HARD,HARD,23.886
+Bahrain Grand Prix,LEC,Ferrari,2,4,11,SOFT,HARD,24.048
+Bahrain Grand Prix,LEC,Ferrari,2,4,34,HARD,HARD,24.081
+Bahrain Grand Prix,RUS,Mercedes,3,5,11,SOFT,HARD,24.766
+Bahrain Grand Prix,RUS,Mercedes,3,5,31,HARD,HARD,24.95
+Bahrain Grand Prix,NOR,McLaren,7,6,13,SOFT,HARD,24.11
+Bahrain Grand Prix,NOR,McLaren,7,6,33,HARD,HARD,24.8
+Bahrain Grand Prix,HAM,Mercedes,9,7,12,SOFT,HARD,25.064
+Bahrain Grand Prix,HAM,Mercedes,9,7,33,HARD,HARD,24.119
+Bahrain Grand Prix,PIA,McLaren,8,8,12,SOFT,HARD,25.416
+Bahrain Grand Prix,PIA,McLaren,8,8,34,HARD,HARD,24.794
+Bahrain Grand Prix,ALO,Aston Martin,6,9,15,SOFT,HARD,24.862
+Bahrain Grand Prix,ALO,Aston Martin,6,9,41,HARD,HARD,25.061
+Bahrain Grand Prix,STR,Aston Martin,12,10,9,SOFT,HARD,24.354
+Bahrain Grand Prix,STR,Aston Martin,12,10,27,HARD,HARD,24.42
+Bahrain Grand Prix,ZHO,Kick Sauber,17,11,9,SOFT,HARD,25.141
+Bahrain Grand Prix,ZHO,Kick Sauber,17,11,28,HARD,HARD,24.983
+Bahrain Grand Prix,MAG,Haas F1 Team,15,12,11,SOFT,HARD,25.897
+Bahrain Grand Prix,MAG,Haas F1 Team,15,12,32,HARD,HARD,24.557
+Bahrain Grand Prix,RIC,RB,14,13,13,SOFT,HARD,24.591
+Bahrain Grand Prix,RIC,RB,14,13,35,HARD,SOFT,24.769
+Bahrain Grand Prix,TSU,RB,11,14,14,SOFT,HARD,24.673
+Bahrain Grand Prix,TSU,RB,11,14,34,HARD,HARD,24.598
+Bahrain Grand Prix,ALB,Williams,13,15,15,SOFT,HARD,24.779
+Bahrain Grand Prix,ALB,Williams,13,15,36,HARD,HARD,24.682
+Bahrain Grand Prix,HUL,Haas F1 Team,10,16,1,SOFT,HARD,36.563
+Bahrain Grand Prix,HUL,Haas F1 Team,10,16,20,HARD,HARD,24.613
+Bahrain Grand Prix,HUL,Haas F1 Team,10,16,41,HARD,SOFT,24.333
+Bahrain Grand Prix,OCO,Alpine,19,17,10,SOFT,HARD,24.691
+Bahrain Grand Prix,OCO,Alpine,19,17,30,HARD,HARD,25.13
+Bahrain Grand Prix,GAS,Alpine,20,18,12,SOFT,HARD,29.802
+Bahrain Grand Prix,GAS,Alpine,20,18,31,HARD,HARD,26.536
+Bahrain Grand Prix,GAS,Alpine,20,18,43,HARD,SOFT,25.107
+Bahrain Grand Prix,BOT,Kick Sauber,16,19,12,SOFT,HARD,26.566
+Bahrain Grand Prix,BOT,Kick Sauber,16,19,30,HARD,HARD,74.951
+Bahrain Grand Prix,SAR,Williams,18,20,10,SOFT,HARD,35.725
+Bahrain Grand Prix,SAR,Williams,18,20,28,HARD,HARD,25.143
+Bahrain Grand Prix,SAR,Williams,18,20,40,HARD,SOFT,25.429
+Saudi Arabian Grand Prix,VER,Red Bull Racing,1,1,7,MEDIUM,HARD,20.668
+Saudi Arabian Grand Prix,PER,Red Bull Racing,3,2,7,MEDIUM,HARD,22.243
+Saudi Arabian Grand Prix,LEC,Ferrari,2,3,7,MEDIUM,HARD,23.374
+Saudi Arabian Grand Prix,PIA,McLaren,5,4,7,MEDIUM,HARD,21.379
+Saudi Arabian Grand Prix,ALO,Aston Martin,4,5,7,MEDIUM,HARD,22.24
+Saudi Arabian Grand Prix,RUS,Mercedes,7,6,7,MEDIUM,HARD,21.004
+Saudi Arabian Grand Prix,BEA,Ferrari,11,7,7,SOFT,HARD,22.453
+Saudi Arabian Grand Prix,NOR,McLaren,6,8,37,MEDIUM,SOFT,22.266
+Saudi Arabian Grand Prix,HAM,Mercedes,8,9,36,MEDIUM,SOFT,20.236
+Saudi Arabian Grand Prix,HUL,Haas F1 Team,15,10,33,MEDIUM,HARD,21.107
+Saudi Arabian Grand Prix,ALB,Williams,12,11,7,MEDIUM,HARD,21.633
+Saudi Arabian Grand Prix,MAG,Haas F1 Team,13,12,7,MEDIUM,HARD,21.46
+Saudi Arabian Grand Prix,OCO,Alpine,17,13,7,MEDIUM,HARD,22.525
+Saudi Arabian Grand Prix,SAR,Williams,19,14,7,MEDIUM,HARD,23.717
+Saudi Arabian Grand Prix,TSU,RB,9,15,7,MEDIUM,HARD,21.74
+Saudi Arabian Grand Prix,RIC,RB,14,16,7,MEDIUM,HARD,63.418
+Saudi Arabian Grand Prix,BOT,Kick Sauber,16,17,7,SOFT,HARD,22.682
+Saudi Arabian Grand Prix,BOT,Kick Sauber,16,17,35,HARD,SOFT,23.262
+Saudi Arabian Grand Prix,ZHO,Kick Sauber,20,18,41,MEDIUM,SOFT,46.349
+Australian Grand Prix,SAI,Ferrari,2,1,16,MEDIUM,HARD,17.519
+Australian Grand Prix,SAI,Ferrari,2,1,41,HARD,HARD,17.705
+Australian Grand Prix,LEC,Ferrari,4,2,9,MEDIUM,HARD,17.174
+Australian Grand Prix,LEC,Ferrari,4,2,34,HARD,HARD,17.213
+Australian Grand Prix,NOR,McLaren,3,3,14,MEDIUM,HARD,17.822
+Australian Grand Prix,NOR,McLaren,3,3,40,HARD,HARD,17.621
+Australian Grand Prix,PIA,McLaren,5,4,9,MEDIUM,HARD,17.274
+Australian Grand Prix,PIA,McLaren,5,4,39,HARD,HARD,18.426
+Australian Grand Prix,PER,Red Bull Racing,6,5,14,MEDIUM,HARD,17.96
+Australian Grand Prix,PER,Red Bull Racing,6,5,35,HARD,HARD,17.19
+Australian Grand Prix,STR,Aston Martin,9,6,8,MEDIUM,HARD,17.75
+Australian Grand Prix,STR,Aston Martin,9,6,37,HARD,HARD,17.83
+Australian Grand Prix,TSU,RB,8,7,9,MEDIUM,HARD,18.525
+Australian Grand Prix,TSU,RB,8,7,36,HARD,HARD,17.478
+Australian Grand Prix,ALO,Aston Martin,10,8,17,HARD,MEDIUM,18.141
+Australian Grand Prix,ALO,Aston Martin,10,8,41,MEDIUM,HARD,17.816
+Australian Grand Prix,HUL,Haas F1 Team,16,9,17,HARD,MEDIUM,18.218
+Australian Grand Prix,HUL,Haas F1 Team,16,9,35,MEDIUM,HARD,18.102
+Australian Grand Prix,MAG,Haas F1 Team,14,10,7,MEDIUM,HARD,18.213
+Australian Grand Prix,MAG,Haas F1 Team,14,10,33,HARD,HARD,18.078
+Australian Grand Prix,ALB,Williams,12,11,6,MEDIUM,HARD,17.573
+Australian Grand Prix,ALB,Williams,12,11,27,HARD,HARD,17.614
+Australian Grand Prix,RIC,RB,18,12,5,SOFT,HARD,18.142
+Australian Grand Prix,RIC,RB,18,12,29,HARD,HARD,17.6
+Australian Grand Prix,GAS,Alpine,17,13,17,MEDIUM,HARD,20.245
+Australian Grand Prix,GAS,Alpine,17,13,41,HARD,HARD,17.575
+Australian Grand Prix,BOT,Kick Sauber,13,14,8,MEDIUM,HARD,46.918
+Australian Grand Prix,BOT,Kick Sauber,13,14,36,HARD,HARD,18.87
+Australian Grand Prix,ZHO,Kick Sauber,19,15,6,SOFT,HARD,18.945
+Australian Grand Prix,ZHO,Kick Sauber,19,15,35,HARD,HARD,36.696
+Australian Grand Prix,OCO,Alpine,15,16,9,MEDIUM,HARD,18.313
+Australian Grand Prix,OCO,Alpine,15,16,16,HARD,HARD,30.508
+Australian Grand Prix,OCO,Alpine,15,16,42,HARD,HARD,17.794
+Australian Grand Prix,RUS,Mercedes,7,17,8,MEDIUM,HARD,17.943
+Australian Grand Prix,RUS,Mercedes,7,17,45,HARD,HARD,17.795
+Japanese Grand Prix,VER,Red Bull Racing,1,1,16,MEDIUM,MEDIUM,23.125
+Japanese Grand Prix,VER,Red Bull Racing,1,1,34,MEDIUM,HARD,23.152
+Japanese Grand Prix,PER,Red Bull Racing,2,2,15,MEDIUM,MEDIUM,22.928
+Japanese Grand Prix,PER,Red Bull Racing,2,2,33,MEDIUM,HARD,22.904
+Japanese Grand Prix,SAI,Ferrari,4,3,15,MEDIUM,MEDIUM,23.113
+Japanese Grand Prix,SAI,Ferrari,4,3,36,MEDIUM,HARD,23.407
+Japanese Grand Prix,LEC,Ferrari,8,4,26,MEDIUM,HARD,23.266
+Japanese Grand Prix,NOR,McLaren,3,5,11,MEDIUM,HARD,22.922
+Japanese Grand Prix,NOR,McLaren,3,5,26,HARD,HARD,23.338
+Japanese Grand Prix,ALO,Aston Martin,5,6,13,SOFT,MEDIUM,23.001
+Japanese Grand Prix,ALO,Aston Martin,5,6,33,MEDIUM,HARD,23.096
+Japanese Grand Prix,RUS,Mercedes,9,7,22,HARD,HARD,23.396
+Japanese Grand Prix,RUS,Mercedes,9,7,37,HARD,MEDIUM,22.968
+Japanese Grand Prix,PIA,McLaren,6,8,12,MEDIUM,HARD,23.445
+Japanese Grand Prix,PIA,McLaren,6,8,32,HARD,HARD,22.646
+Japanese Grand Prix,HAM,Mercedes,7,9,23,HARD,HARD,23.345
+Japanese Grand Prix,HAM,Mercedes,7,9,39,HARD,MEDIUM,23.814
+Japanese Grand Prix,TSU,RB,10,10,7,SOFT,HARD,23.134
+Japanese Grand Prix,TSU,RB,10,10,22,HARD,HARD,23.418
+Japanese Grand Prix,HUL,Haas F1 Team,12,11,5,SOFT,HARD,23.683
+Japanese Grand Prix,HUL,Haas F1 Team,12,11,33,HARD,HARD,24.127
+Japanese Grand Prix,STR,Aston Martin,16,12,12,SOFT,MEDIUM,23.302
+Japanese Grand Prix,STR,Aston Martin,16,12,22,MEDIUM,HARD,23.258
+Japanese Grand Prix,STR,Aston Martin,16,12,34,HARD,SOFT,22.848
+Japanese Grand Prix,MAG,Haas F1 Team,18,13,22,MEDIUM,HARD,26.196
+Japanese Grand Prix,BOT,Kick Sauber,13,14,6,SOFT,HARD,24.683
+Japanese Grand Prix,BOT,Kick Sauber,13,14,22,HARD,HARD,25.861
+Japanese Grand Prix,OCO,Alpine,15,15,19,HARD,HARD,23.205
+Japanese Grand Prix,OCO,Alpine,15,15,33,HARD,MEDIUM,24.065
+Japanese Grand Prix,GAS,Alpine,17,16,16,HARD,MEDIUM,23.816
+Japanese Grand Prix,GAS,Alpine,17,16,32,MEDIUM,HARD,23.025
+Japanese Grand Prix,SAR,Williams,19,17,22,HARD,HARD,25.394
+Japanese Grand Prix,SAR,Williams,19,17,34,HARD,MEDIUM,24.063
+Japanese Grand Prix,SAR,Williams,19,17,41,MEDIUM,SOFT,23.179
+Chinese Grand Prix,VER,Red Bull Racing,1,1,13,MEDIUM,HARD,22.572
+Chinese Grand Prix,VER,Red Bull Racing,1,1,23,HARD,HARD,22.223
+Chinese Grand Prix,NOR,McLaren,4,2,22,MEDIUM,HARD,22.226
+Chinese Grand Prix,PER,Red Bull Racing,2,3,13,MEDIUM,HARD,21.957
+Chinese Grand Prix,PER,Red Bull Racing,2,3,23,HARD,HARD,22.379
+Chinese Grand Prix,LEC,Ferrari,6,4,21,MEDIUM,HARD,22.21
+Chinese Grand Prix,SAI,Ferrari,7,5,17,MEDIUM,HARD,22.55
+Chinese Grand Prix,RUS,Mercedes,8,6,11,MEDIUM,MEDIUM,22.462
+Chinese Grand Prix,RUS,Mercedes,8,6,23,MEDIUM,HARD,22.65
+Chinese Grand Prix,ALO,Aston Martin,3,7,11,MEDIUM,HARD,22.927
+Chinese Grand Prix,ALO,Aston Martin,3,7,23,HARD,SOFT,22.623
+Chinese Grand Prix,ALO,Aston Martin,3,7,43,SOFT,MEDIUM,23.157
+Chinese Grand Prix,PIA,McLaren,5,8,16,MEDIUM,MEDIUM,22.614
+Chinese Grand Prix,PIA,McLaren,5,8,24,MEDIUM,HARD,22.177
+Chinese Grand Prix,HAM,Mercedes,18,9,9,SOFT,MEDIUM,22.348
+Chinese Grand Prix,HAM,Mercedes,18,9,21,MEDIUM,HARD,22.549
+Chinese Grand Prix,HUL,Haas F1 Team,9,10,8,MEDIUM,HARD,22.995
+Chinese Grand Prix,HUL,Haas F1 Team,9,10,23,HARD,HARD,23.379
+Chinese Grand Prix,OCO,Alpine,13,11,9,MEDIUM,HARD,22.984
+Chinese Grand Prix,OCO,Alpine,13,11,23,HARD,HARD,23.169
+Chinese Grand Prix,ALB,Williams,14,12,9,MEDIUM,MEDIUM,23.177
+Chinese Grand Prix,ALB,Williams,14,12,23,MEDIUM,HARD,23.516
+Chinese Grand Prix,GAS,Alpine,15,13,11,MEDIUM,HARD,39.612
+Chinese Grand Prix,GAS,Alpine,15,13,23,HARD,HARD,24.031
+Chinese Grand Prix,GAS,Alpine,15,13,38,HARD,MEDIUM,22.729
+Chinese Grand Prix,ZHO,Kick Sauber,16,14,8,MEDIUM,HARD,23.244
+Chinese Grand Prix,ZHO,Kick Sauber,16,14,23,HARD,HARD,25.578
+Chinese Grand Prix,ZHO,Kick Sauber,16,14,40,HARD,SOFT,23.285
+Chinese Grand Prix,STR,Aston Martin,11,15,9,SOFT,MEDIUM,23.783
+Chinese Grand Prix,STR,Aston Martin,11,15,21,MEDIUM,HARD,22.922
+Chinese Grand Prix,STR,Aston Martin,11,15,26,HARD,MEDIUM,93.203
+Chinese Grand Prix,STR,Aston Martin,11,15,35,MEDIUM,HARD,34.703
+Chinese Grand Prix,MAG,Haas F1 Team,17,16,17,HARD,HARD,22.913
+Chinese Grand Prix,MAG,Haas F1 Team,17,16,27,HARD,MEDIUM,25.849
+Chinese Grand Prix,SAR,Williams,20,17,12,SOFT,MEDIUM,23.225
+Chinese Grand Prix,SAR,Williams,20,17,24,MEDIUM,HARD,22.661
+Miami Grand Prix,NOR,McLaren,5,1,29,MEDIUM,HARD,22.052
+Miami Grand Prix,VER,Red Bull Racing,1,2,23,MEDIUM,HARD,22.249
+Miami Grand Prix,LEC,Ferrari,2,3,19,MEDIUM,HARD,21.795
+Miami Grand Prix,PER,Red Bull Racing,4,4,17,MEDIUM,HARD,21.742
+Miami Grand Prix,PER,Red Bull Racing,4,4,28,HARD,MEDIUM,22.518
+Miami Grand Prix,SAI,Ferrari,3,5,27,MEDIUM,HARD,23.091
+Miami Grand Prix,HAM,Mercedes,8,6,26,HARD,MEDIUM,22.135
+Miami Grand Prix,TSU,RB,10,7,28,MEDIUM,HARD,22.233
+Miami Grand Prix,RUS,Mercedes,7,8,24,MEDIUM,HARD,22.848
+Miami Grand Prix,ALO,Aston Martin,15,9,22,HARD,MEDIUM,22.358
+Miami Grand Prix,OCO,Alpine,13,10,22,MEDIUM,HARD,22.743
+Miami Grand Prix,HUL,Haas F1 Team,9,11,12,MEDIUM,HARD,23.08
+Miami Grand Prix,HUL,Haas F1 Team,9,11,28,HARD,MEDIUM,22.521
+Miami Grand Prix,GAS,Alpine,12,12,12,MEDIUM,HARD,22.522
+Miami Grand Prix,PIA,McLaren,6,13,27,MEDIUM,HARD,22.158
+Miami Grand Prix,PIA,McLaren,6,13,40,HARD,MEDIUM,30.25
+Miami Grand Prix,ZHO,Kick Sauber,19,14,28,MEDIUM,SOFT,23.025
+Miami Grand Prix,RIC,RB,20,15,28,HARD,MEDIUM,22.635
+Miami Grand Prix,BOT,Kick Sauber,16,16,11,SOFT,HARD,23.696
+Miami Grand Prix,BOT,Kick Sauber,16,16,29,HARD,MEDIUM,22.785
+Miami Grand Prix,STR,Aston Martin,11,17,11,MEDIUM,HARD,23.015
+Miami Grand Prix,STR,Aston Martin,11,17,28,HARD,MEDIUM,22.661
+Miami Grand Prix,ALB,Williams,14,18,10,MEDIUM,HARD,22.68
+Miami Grand Prix,ALB,Williams,14,18,53,HARD,SOFT,22.446
+Miami Grand Prix,MAG,Haas F1 Team,18,19,22,HARD,MEDIUM,23.29
+Miami Grand Prix,MAG,Haas F1 Team,18,19,28,MEDIUM,MEDIUM,29.655
+Miami Grand Prix,MAG,Haas F1 Team,18,19,31,MEDIUM,MEDIUM,30.673
+Emilia Romagna Grand Prix,VER,Red Bull Racing,1,1,24,MEDIUM,HARD,30.289
+Emilia Romagna Grand Prix,NOR,McLaren,2,2,22,MEDIUM,HARD,29.843
+Emilia Romagna Grand Prix,LEC,Ferrari,3,3,25,MEDIUM,HARD,30.232
+Emilia Romagna Grand Prix,PIA,McLaren,5,4,23,MEDIUM,HARD,29.721
+Emilia Romagna Grand Prix,SAI,Ferrari,4,5,27,MEDIUM,HARD,30.464
+Emilia Romagna Grand Prix,HAM,Mercedes,8,6,27,MEDIUM,HARD,29.603
+Emilia Romagna Grand Prix,RUS,Mercedes,6,7,21,MEDIUM,HARD,29.767
+Emilia Romagna Grand Prix,RUS,Mercedes,6,7,52,HARD,MEDIUM,29.707
+Emilia Romagna Grand Prix,PER,Red Bull Racing,11,8,37,HARD,MEDIUM,29.571
+Emilia Romagna Grand Prix,STR,Aston Martin,13,9,37,MEDIUM,HARD,30.128
+Emilia Romagna Grand Prix,TSU,RB,7,10,12,MEDIUM,HARD,29.763
+Emilia Romagna Grand Prix,HUL,Haas F1 Team,10,11,13,MEDIUM,HARD,29.807
+Emilia Romagna Grand Prix,MAG,Haas F1 Team,18,12,37,MEDIUM,HARD,31.311
+Emilia Romagna Grand Prix,RIC,RB,9,13,11,MEDIUM,HARD,30.128
+Emilia Romagna Grand Prix,OCO,Alpine,12,14,25,MEDIUM,HARD,30.67
+Emilia Romagna Grand Prix,ZHO,Kick Sauber,17,15,33,HARD,MEDIUM,30.2
+Emilia Romagna Grand Prix,GAS,Alpine,15,16,8,SOFT,HARD,30.119
+Emilia Romagna Grand Prix,GAS,Alpine,15,16,30,HARD,MEDIUM,30.576
+Emilia Romagna Grand Prix,SAR,Williams,19,17,31,HARD,MEDIUM,31.082
+Emilia Romagna Grand Prix,BOT,Kick Sauber,16,18,8,MEDIUM,HARD,30.274
+Emilia Romagna Grand Prix,ALO,Aston Martin,20,19,7,SOFT,HARD,31.355
+Emilia Romagna Grand Prix,ALO,Aston Martin,20,19,40,HARD,MEDIUM,30.475
+Emilia Romagna Grand Prix,ALO,Aston Martin,20,19,59,MEDIUM,SOFT,29.94
+Monaco Grand Prix,VER,Red Bull Racing,6,6,52,MEDIUM,HARD,23.666
+Monaco Grand Prix,HAM,Mercedes,7,7,51,MEDIUM,HARD,24.091
+Monaco Grand Prix,BOT,Kick Sauber,17,13,15,MEDIUM,HARD,24.267
+Monaco Grand Prix,STR,Aston Martin,13,14,42,MEDIUM,HARD,24.077
+Monaco Grand Prix,STR,Aston Martin,13,14,48,HARD,SOFT,28.125
+Monaco Grand Prix,SAR,Williams,15,15,57,HARD,MEDIUM,24.381
+Monaco Grand Prix,ZHO,Kick Sauber,18,16,70,HARD,SOFT,24.448
+Canadian Grand Prix,VER,Red Bull Racing,2,1,25,INTERMEDIATE,INTERMEDIATE,24.247
+Canadian Grand Prix,VER,Red Bull Racing,2,1,45,INTERMEDIATE,MEDIUM,24.168
+Canadian Grand Prix,NOR,McLaren,3,2,26,INTERMEDIATE,INTERMEDIATE,23.456
+Canadian Grand Prix,NOR,McLaren,3,2,47,INTERMEDIATE,MEDIUM,23.975
+Canadian Grand Prix,RUS,Mercedes,1,3,25,INTERMEDIATE,INTERMEDIATE,24.136
+Canadian Grand Prix,RUS,Mercedes,1,3,45,INTERMEDIATE,HARD,25.459
+Canadian Grand Prix,RUS,Mercedes,1,3,54,HARD,MEDIUM,28.225
+Canadian Grand Prix,HAM,Mercedes,7,4,25,INTERMEDIATE,INTERMEDIATE,23.772
+Canadian Grand Prix,HAM,Mercedes,7,4,43,INTERMEDIATE,MEDIUM,24.103
+Canadian Grand Prix,HAM,Mercedes,7,4,54,MEDIUM,HARD,28.852
+Canadian Grand Prix,PIA,McLaren,4,5,25,INTERMEDIATE,INTERMEDIATE,23.882
+Canadian Grand Prix,PIA,McLaren,4,5,44,INTERMEDIATE,MEDIUM,23.449
+Canadian Grand Prix,ALO,Aston Martin,6,6,25,INTERMEDIATE,INTERMEDIATE,25.907
+Canadian Grand Prix,ALO,Aston Martin,6,6,44,INTERMEDIATE,HARD,22.324
+Canadian Grand Prix,STR,Aston Martin,9,7,25,INTERMEDIATE,INTERMEDIATE,24.281
+Canadian Grand Prix,STR,Aston Martin,9,7,44,INTERMEDIATE,HARD,25.08
+Canadian Grand Prix,RIC,RB,5,8,26,INTERMEDIATE,INTERMEDIATE,30.355
+Canadian Grand Prix,RIC,RB,5,8,43,INTERMEDIATE,MEDIUM,23.774
+Canadian Grand Prix,GAS,Alpine,15,9,25,INTERMEDIATE,INTERMEDIATE,24.92
+Canadian Grand Prix,GAS,Alpine,15,9,40,INTERMEDIATE,HARD,24.551
+Canadian Grand Prix,OCO,Alpine,18,10,44,INTERMEDIATE,MEDIUM,24.458
+Canadian Grand Prix,HUL,Haas F1 Team,17,11,12,WET,INTERMEDIATE,24.229
+Canadian Grand Prix,HUL,Haas F1 Team,17,11,25,INTERMEDIATE,INTERMEDIATE,24.521
+Canadian Grand Prix,HUL,Haas F1 Team,17,11,44,INTERMEDIATE,MEDIUM,24.699
+Canadian Grand Prix,MAG,Haas F1 Team,14,12,7,WET,INTERMEDIATE,30.582
+Canadian Grand Prix,MAG,Haas F1 Team,14,12,25,INTERMEDIATE,INTERMEDIATE,26.771
+Canadian Grand Prix,MAG,Haas F1 Team,14,12,41,INTERMEDIATE,MEDIUM,24.907
+Canadian Grand Prix,MAG,Haas F1 Team,14,12,54,MEDIUM,MEDIUM,26.914
+Canadian Grand Prix,BOT,Kick Sauber,0,13,42,INTERMEDIATE,MEDIUM,24.83
+Canadian Grand Prix,TSU,RB,8,14,44,INTERMEDIATE,MEDIUM,25.613
+Canadian Grand Prix,ZHO,Kick Sauber,0,15,24,INTERMEDIATE,INTERMEDIATE,25.709
+Canadian Grand Prix,ZHO,Kick Sauber,0,15,44,INTERMEDIATE,MEDIUM,65.577
+Canadian Grand Prix,ZHO,Kick Sauber,0,15,52,MEDIUM,MEDIUM,28.424
+Spanish Grand Prix,VER,Red Bull Racing,2,1,17,SOFT,MEDIUM,21.593
+Spanish Grand Prix,VER,Red Bull Racing,2,1,44,MEDIUM,SOFT,22.381
+Spanish Grand Prix,NOR,McLaren,1,2,23,SOFT,MEDIUM,21.442
+Spanish Grand Prix,NOR,McLaren,1,2,47,MEDIUM,SOFT,22.628
+Spanish Grand Prix,HAM,Mercedes,3,3,16,SOFT,MEDIUM,21.97
+Spanish Grand Prix,HAM,Mercedes,3,3,43,MEDIUM,SOFT,21.276
+Spanish Grand Prix,RUS,Mercedes,4,4,15,SOFT,MEDIUM,24.925
+Spanish Grand Prix,RUS,Mercedes,4,4,36,MEDIUM,HARD,22.773
+Spanish Grand Prix,LEC,Ferrari,5,5,24,SOFT,MEDIUM,22.276
+Spanish Grand Prix,LEC,Ferrari,5,5,47,MEDIUM,SOFT,21.589
+Spanish Grand Prix,SAI,Ferrari,6,6,15,SOFT,MEDIUM,22.31
+Spanish Grand Prix,SAI,Ferrari,6,6,36,MEDIUM,HARD,22.133
+Spanish Grand Prix,PIA,McLaren,9,7,21,SOFT,MEDIUM,22.144
+Spanish Grand Prix,PIA,McLaren,9,7,46,MEDIUM,SOFT,22.511
+Spanish Grand Prix,PER,Red Bull Racing,11,8,13,SOFT,SOFT,22.185
+Spanish Grand Prix,PER,Red Bull Racing,11,8,31,SOFT,MEDIUM,21.355
+Spanish Grand Prix,PER,Red Bull Racing,11,8,49,MEDIUM,SOFT,21.437
+Spanish Grand Prix,GAS,Alpine,7,9,14,SOFT,MEDIUM,26.1
+Spanish Grand Prix,GAS,Alpine,7,9,38,MEDIUM,HARD,21.615
+Spanish Grand Prix,OCO,Alpine,8,10,13,SOFT,MEDIUM,21.859
+Spanish Grand Prix,OCO,Alpine,8,10,37,MEDIUM,HARD,22.002
+Spanish Grand Prix,HUL,Haas F1 Team,13,11,12,SOFT,MEDIUM,22.646
+Spanish Grand Prix,HUL,Haas F1 Team,13,11,38,MEDIUM,HARD,22.544
+Spanish Grand Prix,ALO,Aston Martin,10,12,19,SOFT,MEDIUM,21.891
+Spanish Grand Prix,ALO,Aston Martin,10,12,45,MEDIUM,HARD,22.466
+Spanish Grand Prix,ZHO,Kick Sauber,15,13,9,SOFT,MEDIUM,22.465
+Spanish Grand Prix,ZHO,Kick Sauber,15,13,41,MEDIUM,HARD,24.245
+Spanish Grand Prix,STR,Aston Martin,14,14,17,SOFT,MEDIUM,21.792
+Spanish Grand Prix,STR,Aston Martin,14,14,37,MEDIUM,HARD,23.394
+Spanish Grand Prix,RIC,RB,18,15,16,SOFT,MEDIUM,22.253
+Spanish Grand Prix,RIC,RB,18,15,42,MEDIUM,HARD,22.14
+Spanish Grand Prix,BOT,Kick Sauber,12,16,11,SOFT,SOFT,22.747
+Spanish Grand Prix,BOT,Kick Sauber,12,16,28,SOFT,HARD,23.082
+Spanish Grand Prix,MAG,Haas F1 Team,16,17,10,SOFT,MEDIUM,23.386
+Spanish Grand Prix,MAG,Haas F1 Team,16,17,29,MEDIUM,HARD,28.754
+Spanish Grand Prix,ALB,Williams,0,18,18,MEDIUM,SOFT,23.183
+Spanish Grand Prix,ALB,Williams,0,18,43,SOFT,SOFT,21.783
+Spanish Grand Prix,TSU,RB,17,19,9,SOFT,MEDIUM,22.003
+Spanish Grand Prix,TSU,RB,17,19,27,MEDIUM,HARD,22.068
+Spanish Grand Prix,TSU,RB,17,19,44,HARD,SOFT,22.548
+Spanish Grand Prix,SAR,Williams,19,20,14,SOFT,MEDIUM,22.414
+Spanish Grand Prix,SAR,Williams,19,20,34,MEDIUM,HARD,22.435
+Austrian Grand Prix,RUS,Mercedes,3,1,22,MEDIUM,MEDIUM,21.596
+Austrian Grand Prix,RUS,Mercedes,3,1,46,MEDIUM,HARD,21.298
+Austrian Grand Prix,PIA,McLaren,7,2,25,MEDIUM,HARD,20.996
+Austrian Grand Prix,PIA,McLaren,7,2,51,HARD,MEDIUM,20.693
+Austrian Grand Prix,SAI,Ferrari,4,3,22,MEDIUM,HARD,21.205
+Austrian Grand Prix,SAI,Ferrari,4,3,47,HARD,MEDIUM,21.148
+Austrian Grand Prix,HAM,Mercedes,5,4,21,MEDIUM,HARD,21.653
+Austrian Grand Prix,HAM,Mercedes,5,4,53,HARD,MEDIUM,27.276
+Austrian Grand Prix,VER,Red Bull Racing,1,5,23,MEDIUM,HARD,22.101
+Austrian Grand Prix,VER,Red Bull Racing,1,5,51,HARD,MEDIUM,25.918
+Austrian Grand Prix,VER,Red Bull Racing,1,5,64,MEDIUM,SOFT,22.743
+Austrian Grand Prix,HUL,Haas F1 Team,9,6,11,MEDIUM,HARD,22.367
+Austrian Grand Prix,HUL,Haas F1 Team,9,6,39,HARD,HARD,21.75
+Austrian Grand Prix,PER,Red Bull Racing,8,7,21,MEDIUM,HARD,21.086
+Austrian Grand Prix,PER,Red Bull Racing,8,7,51,HARD,MEDIUM,27.56
+Austrian Grand Prix,MAG,Haas F1 Team,12,8,10,MEDIUM,HARD,21.57
+Austrian Grand Prix,MAG,Haas F1 Team,12,8,38,HARD,HARD,21.736
+Austrian Grand Prix,RIC,RB,11,9,10,MEDIUM,HARD,21.439
+Austrian Grand Prix,RIC,RB,11,9,37,HARD,HARD,20.914
+Austrian Grand Prix,GAS,Alpine,13,10,20,MEDIUM,HARD,21.413
+Austrian Grand Prix,GAS,Alpine,13,10,42,HARD,MEDIUM,22.138
+Austrian Grand Prix,LEC,Ferrari,6,11,1,MEDIUM,HARD,31.935
+Austrian Grand Prix,LEC,Ferrari,6,11,16,HARD,MEDIUM,21.635
+Austrian Grand Prix,LEC,Ferrari,6,11,33,MEDIUM,MEDIUM,22.234
+Austrian Grand Prix,LEC,Ferrari,6,11,51,MEDIUM,MEDIUM,20.785
+Austrian Grand Prix,OCO,Alpine,10,12,19,MEDIUM,HARD,22.306
+Austrian Grand Prix,OCO,Alpine,10,12,43,HARD,MEDIUM,21.148
+Austrian Grand Prix,STR,Aston Martin,17,13,20,MEDIUM,MEDIUM,21.476
+Austrian Grand Prix,STR,Aston Martin,17,13,43,MEDIUM,HARD,21.526
+Austrian Grand Prix,TSU,RB,14,14,21,MEDIUM,HARD,21.431
+Austrian Grand Prix,TSU,RB,14,14,44,HARD,HARD,23.496
+Austrian Grand Prix,ALB,Williams,16,15,12,MEDIUM,HARD,21.729
+Austrian Grand Prix,ALB,Williams,16,15,39,HARD,HARD,21.668
+Austrian Grand Prix,BOT,Kick Sauber,18,16,19,MEDIUM,HARD,21.927
+Austrian Grand Prix,BOT,Kick Sauber,18,16,42,HARD,HARD,21.937
+Austrian Grand Prix,ZHO,Kick Sauber,20,17,28,HARD,MEDIUM,23.164
+Austrian Grand Prix,ZHO,Kick Sauber,20,17,51,MEDIUM,HARD,21.538
+Austrian Grand Prix,ALO,Aston Martin,15,18,11,MEDIUM,MEDIUM,21.438
+Austrian Grand Prix,ALO,Aston Martin,15,18,35,MEDIUM,HARD,34.022
+Austrian Grand Prix,ALO,Aston Martin,15,18,68,HARD,SOFT,22.507
+Austrian Grand Prix,SAR,Williams,19,19,1,MEDIUM,MEDIUM,31.705
+Austrian Grand Prix,SAR,Williams,19,19,20,MEDIUM,HARD,22.482
+Austrian Grand Prix,SAR,Williams,19,19,49,HARD,MEDIUM,22.162
+Austrian Grand Prix,NOR,McLaren,2,20,23,MEDIUM,HARD,21.518
+Austrian Grand Prix,NOR,McLaren,2,20,51,HARD,MEDIUM,21.4
+British Grand Prix,HAM,Mercedes,2,1,27,MEDIUM,INTERMEDIATE,28.989
+British Grand Prix,HAM,Mercedes,2,1,38,INTERMEDIATE,SOFT,30.037
+British Grand Prix,VER,Red Bull Racing,4,2,26,MEDIUM,INTERMEDIATE,28.466
+British Grand Prix,VER,Red Bull Racing,4,2,38,INTERMEDIATE,HARD,29.156
+British Grand Prix,NOR,McLaren,3,3,27,MEDIUM,INTERMEDIATE,28.743
+British Grand Prix,NOR,McLaren,3,3,39,INTERMEDIATE,SOFT,30.361
+British Grand Prix,PIA,McLaren,5,4,28,MEDIUM,INTERMEDIATE,29.595
+British Grand Prix,PIA,McLaren,5,4,38,INTERMEDIATE,MEDIUM,29.341
+British Grand Prix,SAI,Ferrari,7,5,26,MEDIUM,INTERMEDIATE,29.266
+British Grand Prix,SAI,Ferrari,7,5,39,INTERMEDIATE,HARD,28.927
+British Grand Prix,SAI,Ferrari,7,5,50,HARD,SOFT,28.671
+British Grand Prix,HUL,Haas F1 Team,6,6,26,MEDIUM,INTERMEDIATE,29.459
+British Grand Prix,HUL,Haas F1 Team,6,6,39,INTERMEDIATE,SOFT,30.464
+British Grand Prix,STR,Aston Martin,8,7,26,MEDIUM,INTERMEDIATE,29.055
+British Grand Prix,STR,Aston Martin,8,7,39,INTERMEDIATE,MEDIUM,29.434
+British Grand Prix,ALO,Aston Martin,10,8,27,MEDIUM,INTERMEDIATE,29.378
+British Grand Prix,ALO,Aston Martin,10,8,38,INTERMEDIATE,MEDIUM,29.719
+British Grand Prix,ALB,Williams,9,9,27,MEDIUM,INTERMEDIATE,34.753
+British Grand Prix,ALB,Williams,9,9,38,INTERMEDIATE,MEDIUM,29.515
+British Grand Prix,TSU,RB,13,10,27,MEDIUM,INTERMEDIATE,29.94
+British Grand Prix,TSU,RB,13,10,38,INTERMEDIATE,SOFT,29.681
+British Grand Prix,SAR,Williams,12,11,27,MEDIUM,INTERMEDIATE,32.857
+British Grand Prix,SAR,Williams,12,11,38,INTERMEDIATE,SOFT,29.435
+British Grand Prix,MAG,Haas F1 Team,17,12,27,MEDIUM,INTERMEDIATE,30.165
+British Grand Prix,MAG,Haas F1 Team,17,12,37,INTERMEDIATE,SOFT,29.884
+British Grand Prix,RIC,RB,15,13,26,MEDIUM,INTERMEDIATE,28.811
+British Grand Prix,RIC,RB,15,13,37,INTERMEDIATE,SOFT,29.966
+British Grand Prix,LEC,Ferrari,11,14,19,MEDIUM,INTERMEDIATE,28.545
+British Grand Prix,LEC,Ferrari,11,14,27,INTERMEDIATE,INTERMEDIATE,29.206
+British Grand Prix,LEC,Ferrari,11,14,37,INTERMEDIATE,SOFT,29.079
+British Grand Prix,BOT,Kick Sauber,16,15,26,MEDIUM,INTERMEDIATE,30.597
+British Grand Prix,BOT,Kick Sauber,16,15,37,INTERMEDIATE,SOFT,31.512
+British Grand Prix,OCO,Alpine,18,16,19,SOFT,INTERMEDIATE,28.539
+British Grand Prix,OCO,Alpine,18,16,21,INTERMEDIATE,MEDIUM,28.399
+British Grand Prix,OCO,Alpine,18,16,26,MEDIUM,INTERMEDIATE,29.182
+British Grand Prix,OCO,Alpine,18,16,38,INTERMEDIATE,MEDIUM,29.054
+British Grand Prix,PER,Red Bull Racing,0,17,19,HARD,INTERMEDIATE,28.303
+British Grand Prix,PER,Red Bull Racing,0,17,28,INTERMEDIATE,INTERMEDIATE,32.366
+British Grand Prix,PER,Red Bull Racing,0,17,37,INTERMEDIATE,MEDIUM,29.196
+British Grand Prix,PER,Red Bull Racing,0,17,47,MEDIUM,SOFT,28.895
+British Grand Prix,ZHO,Kick Sauber,14,18,12,SOFT,MEDIUM,29.143
+British Grand Prix,ZHO,Kick Sauber,14,18,19,MEDIUM,INTERMEDIATE,29.896
+British Grand Prix,ZHO,Kick Sauber,14,18,26,INTERMEDIATE,INTERMEDIATE,29.073
+British Grand Prix,ZHO,Kick Sauber,14,18,37,INTERMEDIATE,SOFT,32.983
+Hungarian Grand Prix,PIA,McLaren,2,1,18,MEDIUM,HARD,21.672
+Hungarian Grand Prix,PIA,McLaren,2,1,47,HARD,MEDIUM,21.856
+Hungarian Grand Prix,NOR,McLaren,1,2,17,MEDIUM,HARD,21.726
+Hungarian Grand Prix,NOR,McLaren,1,2,45,HARD,MEDIUM,21.279
+Hungarian Grand Prix,HAM,Mercedes,5,3,16,MEDIUM,HARD,21.313
+Hungarian Grand Prix,HAM,Mercedes,5,3,40,HARD,HARD,21.93
+Hungarian Grand Prix,LEC,Ferrari,6,4,23,MEDIUM,HARD,21.872
+Hungarian Grand Prix,LEC,Ferrari,6,4,40,HARD,MEDIUM,21.653
+Hungarian Grand Prix,VER,Red Bull Racing,3,5,21,MEDIUM,HARD,22.243
+Hungarian Grand Prix,VER,Red Bull Racing,3,5,49,HARD,MEDIUM,21.329
+Hungarian Grand Prix,SAI,Ferrari,4,6,21,MEDIUM,HARD,21.545
+Hungarian Grand Prix,SAI,Ferrari,4,6,47,HARD,MEDIUM,21.487
+Hungarian Grand Prix,PER,Red Bull Racing,16,7,28,HARD,MEDIUM,21.323
+Hungarian Grand Prix,PER,Red Bull Racing,16,7,47,MEDIUM,MEDIUM,21.06
+Hungarian Grand Prix,RUS,Mercedes,17,8,33,HARD,MEDIUM,21.376
+Hungarian Grand Prix,RUS,Mercedes,17,8,53,MEDIUM,HARD,21.315
+Hungarian Grand Prix,TSU,RB,10,9,29,MEDIUM,HARD,21.478
+Hungarian Grand Prix,STR,Aston Martin,8,10,14,SOFT,MEDIUM,23.375
+Hungarian Grand Prix,STR,Aston Martin,8,10,45,MEDIUM,HARD,22.378
+Hungarian Grand Prix,ALO,Aston Martin,7,11,7,SOFT,MEDIUM,22.538
+Hungarian Grand Prix,ALO,Aston Martin,7,11,37,MEDIUM,HARD,21.879
+Hungarian Grand Prix,RIC,RB,9,12,7,MEDIUM,HARD,21.08
+Hungarian Grand Prix,RIC,RB,9,12,28,HARD,HARD,21.394
+Hungarian Grand Prix,HUL,Haas F1 Team,11,13,2,MEDIUM,HARD,22.364
+Hungarian Grand Prix,HUL,Haas F1 Team,11,13,29,HARD,HARD,22.566
+Hungarian Grand Prix,ALB,Williams,13,14,6,SOFT,HARD,22.081
+Hungarian Grand Prix,ALB,Williams,13,14,29,HARD,HARD,23.581
+Hungarian Grand Prix,MAG,Haas F1 Team,15,15,6,SOFT,HARD,21.891
+Hungarian Grand Prix,MAG,Haas F1 Team,15,15,34,HARD,HARD,22.485
+Hungarian Grand Prix,BOT,Kick Sauber,12,16,16,MEDIUM,HARD,22.136
+Hungarian Grand Prix,BOT,Kick Sauber,12,16,45,HARD,HARD,21.897
+Hungarian Grand Prix,SAR,Williams,14,17,8,MEDIUM,HARD,21.682
+Hungarian Grand Prix,SAR,Williams,14,17,33,HARD,HARD,21.421
+Hungarian Grand Prix,SAR,Williams,14,17,63,HARD,SOFT,21.875
+Hungarian Grand Prix,OCO,Alpine,19,18,6,MEDIUM,HARD,21.942
+Hungarian Grand Prix,OCO,Alpine,19,18,30,HARD,HARD,21.375
+Hungarian Grand Prix,OCO,Alpine,19,18,64,HARD,SOFT,21.169
+Hungarian Grand Prix,ZHO,Kick Sauber,18,19,7,MEDIUM,HARD,21.931
+Hungarian Grand Prix,ZHO,Kick Sauber,18,19,36,HARD,HARD,22.177
+Belgian Grand Prix,HAM,Mercedes,3,1,11,MEDIUM,HARD,23.198
+Belgian Grand Prix,HAM,Mercedes,3,1,26,HARD,HARD,22.665
+Belgian Grand Prix,PIA,McLaren,5,2,11,MEDIUM,HARD,22.684
+Belgian Grand Prix,PIA,McLaren,5,2,30,HARD,HARD,24.244
+Belgian Grand Prix,LEC,Ferrari,1,3,12,MEDIUM,HARD,23.377
+Belgian Grand Prix,LEC,Ferrari,1,3,25,HARD,HARD,23.394
+Belgian Grand Prix,VER,Red Bull Racing,11,4,10,MEDIUM,HARD,23.137
+Belgian Grand Prix,VER,Red Bull Racing,11,4,28,HARD,MEDIUM,22.928
+Belgian Grand Prix,NOR,McLaren,4,5,15,MEDIUM,HARD,22.747
+Belgian Grand Prix,NOR,McLaren,4,5,29,HARD,HARD,22.613
+Belgian Grand Prix,SAI,Ferrari,7,6,20,HARD,MEDIUM,22.916
+Belgian Grand Prix,SAI,Ferrari,7,6,28,MEDIUM,HARD,23.028
+Belgian Grand Prix,PER,Red Bull Racing,2,7,11,MEDIUM,MEDIUM,22.637
+Belgian Grand Prix,PER,Red Bull Racing,2,7,21,MEDIUM,HARD,22.552
+Belgian Grand Prix,PER,Red Bull Racing,2,7,42,HARD,SOFT,22.716
+Belgian Grand Prix,ALO,Aston Martin,8,8,13,MEDIUM,HARD,23.116
+Belgian Grand Prix,OCO,Alpine,9,9,12,MEDIUM,HARD,23.447
+Belgian Grand Prix,OCO,Alpine,9,9,30,HARD,HARD,23.504
+Belgian Grand Prix,RIC,RB,13,10,8,SOFT,MEDIUM,22.657
+Belgian Grand Prix,RIC,RB,13,10,21,MEDIUM,HARD,22.231
+Belgian Grand Prix,STR,Aston Martin,15,11,12,MEDIUM,HARD,22.884
+Belgian Grand Prix,ALB,Williams,10,12,8,MEDIUM,MEDIUM,23.493
+Belgian Grand Prix,ALB,Williams,10,12,23,MEDIUM,HARD,22.88
+Belgian Grand Prix,GAS,Alpine,12,13,9,MEDIUM,HARD,23.017
+Belgian Grand Prix,GAS,Alpine,12,13,28,HARD,HARD,22.862
+Belgian Grand Prix,MAG,Haas F1 Team,17,14,17,MEDIUM,HARD,23.58
+Belgian Grand Prix,BOT,Kick Sauber,14,15,11,MEDIUM,HARD,23.196
+Belgian Grand Prix,BOT,Kick Sauber,14,15,35,HARD,MEDIUM,23.076
+Belgian Grand Prix,TSU,RB,20,16,15,MEDIUM,HARD,23.423
+Belgian Grand Prix,SAR,Williams,18,17,8,MEDIUM,MEDIUM,23.267
+Belgian Grand Prix,SAR,Williams,18,17,24,MEDIUM,HARD,23.574
+Belgian Grand Prix,HUL,Haas F1 Team,16,18,7,MEDIUM,HARD,23.557
+Belgian Grand Prix,HUL,Haas F1 Team,16,18,20,HARD,MEDIUM,23.339
+Dutch Grand Prix,NOR,McLaren,1,1,28,MEDIUM,HARD,21.52
+Dutch Grand Prix,VER,Red Bull Racing,2,2,27,MEDIUM,HARD,20.749
+Dutch Grand Prix,LEC,Ferrari,6,3,24,MEDIUM,HARD,20.821
+Dutch Grand Prix,PIA,McLaren,3,4,33,MEDIUM,HARD,21.079
+Dutch Grand Prix,SAI,Ferrari,10,5,30,MEDIUM,HARD,20.686
+Dutch Grand Prix,PER,Red Bull Racing,5,6,29,MEDIUM,HARD,22.992
+Dutch Grand Prix,RUS,Mercedes,4,7,25,MEDIUM,HARD,21.656
+Dutch Grand Prix,RUS,Mercedes,4,7,54,HARD,SOFT,21.055
+Dutch Grand Prix,HAM,Mercedes,14,8,23,SOFT,HARD,21.146
+Dutch Grand Prix,HAM,Mercedes,14,8,48,HARD,SOFT,21.091
+Dutch Grand Prix,GAS,Alpine,9,9,32,MEDIUM,HARD,22.581
+Dutch Grand Prix,ALO,Aston Martin,7,10,31,MEDIUM,HARD,21.279
+Dutch Grand Prix,HUL,Haas F1 Team,12,11,14,MEDIUM,HARD,21.731
+Dutch Grand Prix,RIC,RB,13,12,29,MEDIUM,HARD,20.706
+Dutch Grand Prix,STR,Aston Martin,8,13,30,MEDIUM,HARD,21.642
+Dutch Grand Prix,ALB,Williams,19,14,12,MEDIUM,HARD,21.282
+Dutch Grand Prix,ALB,Williams,19,14,54,HARD,MEDIUM,20.949
+Dutch Grand Prix,OCO,Alpine,15,15,30,MEDIUM,HARD,21.033
+Dutch Grand Prix,SAR,Williams,18,16,22,MEDIUM,HARD,22.098
+Dutch Grand Prix,TSU,RB,11,17,14,SOFT,MEDIUM,21.192
+Dutch Grand Prix,TSU,RB,11,17,32,MEDIUM,HARD,20.916
+Dutch Grand Prix,MAG,Haas F1 Team,0,18,40,HARD,MEDIUM,21.391
+Dutch Grand Prix,BOT,Kick Sauber,16,19,15,SOFT,HARD,20.739
+Dutch Grand Prix,BOT,Kick Sauber,16,19,43,HARD,MEDIUM,21.156
+Dutch Grand Prix,ZHO,Kick Sauber,17,20,18,MEDIUM,HARD,21.17
+Dutch Grand Prix,ZHO,Kick Sauber,17,20,51,HARD,SOFT,22.026
+Italian Grand Prix,LEC,Ferrari,4,1,15,MEDIUM,HARD,24.419
+Italian Grand Prix,PIA,McLaren,2,2,16,MEDIUM,HARD,23.763
+Italian Grand Prix,PIA,McLaren,2,2,38,HARD,HARD,24.777
+Italian Grand Prix,NOR,McLaren,1,3,14,MEDIUM,HARD,24.172
+Italian Grand Prix,NOR,McLaren,1,3,32,HARD,HARD,24.864
+Italian Grand Prix,SAI,Ferrari,5,4,19,MEDIUM,HARD,24.316
+Italian Grand Prix,HAM,Mercedes,6,5,15,MEDIUM,HARD,24.789
+Italian Grand Prix,HAM,Mercedes,6,5,37,HARD,HARD,24.154
+Italian Grand Prix,VER,Red Bull Racing,7,6,22,HARD,HARD,28.085
+Italian Grand Prix,VER,Red Bull Racing,7,6,41,HARD,MEDIUM,23.952
+Italian Grand Prix,RUS,Mercedes,3,7,11,MEDIUM,HARD,32.727
+Italian Grand Prix,RUS,Mercedes,3,7,33,HARD,HARD,26.309
+Italian Grand Prix,PER,Red Bull Racing,8,8,23,HARD,HARD,24.602
+Italian Grand Prix,PER,Red Bull Racing,8,8,35,HARD,MEDIUM,24.009
+Italian Grand Prix,ALB,Williams,9,9,17,MEDIUM,HARD,24.8
+Italian Grand Prix,MAG,Haas F1 Team,13,10,14,MEDIUM,HARD,25.669
+Italian Grand Prix,ALO,Aston Martin,11,11,12,MEDIUM,HARD,24.875
+Italian Grand Prix,ALO,Aston Martin,11,11,35,HARD,HARD,24.561
+Italian Grand Prix,COL,Williams,18,12,16,MEDIUM,HARD,25.187
+Italian Grand Prix,RIC,RB,12,13,11,MEDIUM,HARD,30.393
+Italian Grand Prix,OCO,Alpine,15,14,31,HARD,MEDIUM,24.194
+Italian Grand Prix,GAS,Alpine,14,15,10,MEDIUM,HARD,24.419
+Italian Grand Prix,GAS,Alpine,14,15,30,HARD,HARD,24.182
+Italian Grand Prix,BOT,Kick Sauber,19,16,33,HARD,MEDIUM,24.475
+Italian Grand Prix,HUL,Haas F1 Team,10,17,5,MEDIUM,HARD,38.845
+Italian Grand Prix,HUL,Haas F1 Team,10,17,32,HARD,HARD,36.564
+Italian Grand Prix,ZHO,Kick Sauber,20,18,15,MEDIUM,HARD,27.245
+Italian Grand Prix,STR,Aston Martin,17,19,19,HARD,HARD,25.055
+Italian Grand Prix,STR,Aston Martin,17,19,36,HARD,MEDIUM,24.3
+Italian Grand Prix,STR,Aston Martin,17,19,50,MEDIUM,SOFT,25.232
+Azerbaijan Grand Prix,PIA,McLaren,2,1,15,MEDIUM,HARD,20.176
+Azerbaijan Grand Prix,LEC,Ferrari,1,2,16,MEDIUM,HARD,20.867
+Azerbaijan Grand Prix,RUS,Mercedes,5,3,12,MEDIUM,HARD,20.085
+Azerbaijan Grand Prix,NOR,McLaren,15,4,37,HARD,MEDIUM,19.535
+Azerbaijan Grand Prix,VER,Red Bull Racing,6,5,12,MEDIUM,HARD,21.047
+Azerbaijan Grand Prix,VER,Red Bull Racing,6,5,49,HARD,SOFT,20.665
+Azerbaijan Grand Prix,ALO,Aston Martin,7,6,11,MEDIUM,HARD,20.117
+Azerbaijan Grand Prix,ALB,Williams,9,7,31,HARD,MEDIUM,20.333
+Azerbaijan Grand Prix,COL,Williams,8,8,10,MEDIUM,HARD,20.495
+Azerbaijan Grand Prix,HAM,Mercedes,0,9,12,MEDIUM,HARD,21.302
+Azerbaijan Grand Prix,BEA,Haas F1 Team,10,10,14,MEDIUM,HARD,21.099
+Azerbaijan Grand Prix,HUL,Haas F1 Team,12,11,15,MEDIUM,HARD,21.649
+Azerbaijan Grand Prix,GAS,Alpine,18,12,50,HARD,SOFT,20.213
+Azerbaijan Grand Prix,RIC,RB,14,13,49,HARD,SOFT,22.06
+Azerbaijan Grand Prix,ZHO,Kick Sauber,17,14,34,HARD,MEDIUM,20.46
+Azerbaijan Grand Prix,OCO,Alpine,0,15,49,HARD,SOFT,20.62
+Azerbaijan Grand Prix,BOT,Kick Sauber,16,16,11,MEDIUM,HARD,20.082
+Azerbaijan Grand Prix,PER,Red Bull Racing,4,17,13,MEDIUM,HARD,20.496
+Azerbaijan Grand Prix,SAI,Ferrari,3,18,17,MEDIUM,HARD,21.578
+Azerbaijan Grand Prix,STR,Aston Martin,13,19,1,MEDIUM,HARD,21.19
+Azerbaijan Grand Prix,STR,Aston Martin,13,19,22,HARD,HARD,20.157
+Singapore Grand Prix,NOR,McLaren,1,1,30,MEDIUM,HARD,28.984
+Singapore Grand Prix,VER,Red Bull Racing,2,2,29,MEDIUM,HARD,29.681
+Singapore Grand Prix,PIA,McLaren,5,3,38,MEDIUM,HARD,29.1
+Singapore Grand Prix,RUS,Mercedes,4,4,27,MEDIUM,HARD,28.713
+Singapore Grand Prix,LEC,Ferrari,9,5,36,MEDIUM,HARD,29.115
+Singapore Grand Prix,HAM,Mercedes,3,6,17,SOFT,HARD,29.278
+Singapore Grand Prix,SAI,Ferrari,10,7,13,MEDIUM,HARD,29.389
+Singapore Grand Prix,ALO,Aston Martin,7,8,25,MEDIUM,HARD,29.682
+Singapore Grand Prix,HUL,Haas F1 Team,6,9,29,MEDIUM,HARD,29.661
+Singapore Grand Prix,PER,Red Bull Racing,13,10,28,MEDIUM,HARD,29.077
+Singapore Grand Prix,COL,Williams,12,11,29,MEDIUM,HARD,29.954
+Singapore Grand Prix,TSU,RB,8,12,33,MEDIUM,SOFT,29.8
+Singapore Grand Prix,OCO,Alpine,15,13,29,MEDIUM,HARD,29.677
+Singapore Grand Prix,STR,Aston Martin,17,14,26,HARD,MEDIUM,29.729
+Singapore Grand Prix,ZHO,Kick Sauber,20,15,34,HARD,MEDIUM,29.552
+Singapore Grand Prix,BOT,Kick Sauber,19,16,33,HARD,MEDIUM,30.611
+Singapore Grand Prix,GAS,Alpine,18,17,37,MEDIUM,SOFT,31.669
+Singapore Grand Prix,RIC,RB,16,18,10,SOFT,MEDIUM,30.365
+Singapore Grand Prix,RIC,RB,16,18,46,MEDIUM,SOFT,29.168
+Singapore Grand Prix,RIC,RB,16,18,58,SOFT,SOFT,29.675
+Singapore Grand Prix,MAG,Haas F1 Team,14,19,28,HARD,MEDIUM,29.532
+Singapore Grand Prix,MAG,Haas F1 Team,14,19,49,MEDIUM,SOFT,31.156
+United States Grand Prix,LEC,Ferrari,4,1,26,MEDIUM,HARD,23.87
+United States Grand Prix,SAI,Ferrari,3,2,21,MEDIUM,HARD,24.023
+United States Grand Prix,VER,Red Bull Racing,2,3,25,MEDIUM,HARD,24.392
+United States Grand Prix,NOR,McLaren,1,4,31,MEDIUM,HARD,23.805
+United States Grand Prix,PIA,McLaren,5,5,32,MEDIUM,HARD,24.194
+United States Grand Prix,RUS,Mercedes,20,6,40,HARD,MEDIUM,29.4
+United States Grand Prix,PER,Red Bull Racing,9,7,26,MEDIUM,HARD,23.617
+United States Grand Prix,HUL,Haas F1 Team,11,8,27,MEDIUM,HARD,24.218
+United States Grand Prix,LAW,RB,19,9,36,HARD,MEDIUM,23.977
+United States Grand Prix,COL,Williams,15,10,39,HARD,MEDIUM,24.024
+United States Grand Prix,MAG,Haas F1 Team,8,11,17,MEDIUM,HARD,24.034
+United States Grand Prix,MAG,Haas F1 Team,8,11,38,HARD,MEDIUM,24.01
+United States Grand Prix,GAS,Alpine,6,12,18,MEDIUM,HARD,28.191
+United States Grand Prix,ALO,Aston Martin,7,13,26,MEDIUM,HARD,24.327
+United States Grand Prix,TSU,RB,10,14,18,MEDIUM,HARD,24.39
+United States Grand Prix,STR,Aston Martin,13,15,27,HARD,MEDIUM,26.493
+United States Grand Prix,ALB,Williams,14,16,3,MEDIUM,MEDIUM,34.92
+United States Grand Prix,ALB,Williams,14,16,33,MEDIUM,HARD,24.373
+United States Grand Prix,BOT,Kick Sauber,16,17,15,MEDIUM,HARD,24.462
+United States Grand Prix,OCO,Alpine,12,18,31,MEDIUM,HARD,24.078
+United States Grand Prix,OCO,Alpine,12,18,51,HARD,SOFT,26.188
+United States Grand Prix,ZHO,Kick Sauber,18,19,13,MEDIUM,MEDIUM,24.398
+United States Grand Prix,ZHO,Kick Sauber,18,19,35,MEDIUM,HARD,24.911
+Mexico City Grand Prix,SAI,Ferrari,1,1,32,MEDIUM,HARD,22.249
+Mexico City Grand Prix,NOR,McLaren,3,2,30,MEDIUM,HARD,22.088
+Mexico City Grand Prix,LEC,Ferrari,4,3,31,MEDIUM,HARD,22.818
+Mexico City Grand Prix,LEC,Ferrari,4,3,69,HARD,SOFT,22.827
+Mexico City Grand Prix,HAM,Mercedes,6,4,28,MEDIUM,HARD,22.492
+Mexico City Grand Prix,RUS,Mercedes,5,5,31,MEDIUM,HARD,22.606
+Mexico City Grand Prix,VER,Red Bull Racing,2,6,26,MEDIUM,HARD,43.744
+Mexico City Grand Prix,MAG,Haas F1 Team,7,7,30,MEDIUM,HARD,23.478
+Mexico City Grand Prix,PIA,McLaren,17,8,39,MEDIUM,HARD,21.789
+Mexico City Grand Prix,HUL,Haas F1 Team,10,9,29,MEDIUM,HARD,23.15
+Mexico City Grand Prix,GAS,Alpine,8,10,28,MEDIUM,HARD,23.278
+Mexico City Grand Prix,STR,Aston Martin,14,11,26,MEDIUM,HARD,22.556
+Mexico City Grand Prix,COL,Williams,16,12,47,HARD,MEDIUM,23.949
+Mexico City Grand Prix,OCO,Alpine,0,13,48,HARD,MEDIUM,23.223
+Mexico City Grand Prix,BOT,Kick Sauber,15,14,49,HARD,MEDIUM,22.596
+Mexico City Grand Prix,ZHO,Kick Sauber,19,15,43,HARD,MEDIUM,22.933
+Mexico City Grand Prix,LAW,RB,12,16,39,HARD,MEDIUM,22.443
+Mexico City Grand Prix,LAW,RB,12,16,65,MEDIUM,SOFT,30.2
+Mexico City Grand Prix,PER,Red Bull Racing,18,17,20,HARD,MEDIUM,27.648
+Mexico City Grand Prix,PER,Red Bull Racing,18,17,43,MEDIUM,MEDIUM,22.107
+Mexico City Grand Prix,PER,Red Bull Racing,18,17,68,MEDIUM,SOFT,21.908
+São Paulo Grand Prix,RUS,Mercedes,2,4,28,INTERMEDIATE,INTERMEDIATE,25.57
+São Paulo Grand Prix,LEC,Ferrari,6,5,24,INTERMEDIATE,INTERMEDIATE,24.6
+São Paulo Grand Prix,NOR,McLaren,1,6,28,INTERMEDIATE,INTERMEDIATE,24.816
+São Paulo Grand Prix,TSU,RB,3,7,28,INTERMEDIATE,WET,25.653
+São Paulo Grand Prix,PIA,McLaren,8,8,27,INTERMEDIATE,INTERMEDIATE,25.976
+São Paulo Grand Prix,LAW,RB,5,9,28,INTERMEDIATE,WET,28.24
+São Paulo Grand Prix,HAM,Mercedes,14,10,27,INTERMEDIATE,INTERMEDIATE,25.254
+São Paulo Grand Prix,PER,Red Bull Racing,12,11,27,INTERMEDIATE,WET,26.596
+São Paulo Grand Prix,BEA,Haas F1 Team,15,12,27,INTERMEDIATE,INTERMEDIATE,35.907
+São Paulo Grand Prix,ALO,Aston Martin,9,14,27,INTERMEDIATE,INTERMEDIATE,25.13
+São Paulo Grand Prix,ZHO,Kick Sauber,19,15,27,INTERMEDIATE,INTERMEDIATE,25.414
+São Paulo Grand Prix,ZHO,Kick Sauber,19,15,28,INTERMEDIATE,WET,27.163
+São Paulo Grand Prix,ZHO,Kick Sauber,19,15,32,INTERMEDIATE,INTERMEDIATE,68.616
+Las Vegas Grand Prix,RUS,Mercedes,1,1,12,MEDIUM,HARD,20.979
+Las Vegas Grand Prix,RUS,Mercedes,1,1,32,HARD,HARD,21.007
+Las Vegas Grand Prix,HAM,Mercedes,10,2,13,MEDIUM,HARD,21.031
+Las Vegas Grand Prix,HAM,Mercedes,10,2,27,HARD,HARD,21.411
+Las Vegas Grand Prix,SAI,Ferrari,2,3,10,MEDIUM,HARD,21.116
+Las Vegas Grand Prix,SAI,Ferrari,2,3,28,HARD,HARD,20.841
+Las Vegas Grand Prix,LEC,Ferrari,4,4,9,MEDIUM,HARD,21.274
+Las Vegas Grand Prix,LEC,Ferrari,4,4,31,HARD,HARD,21.612
+Las Vegas Grand Prix,VER,Red Bull Racing,5,5,11,MEDIUM,HARD,20.77
+Las Vegas Grand Prix,VER,Red Bull Racing,5,5,27,HARD,HARD,22.289
+Las Vegas Grand Prix,NOR,McLaren,6,6,9,MEDIUM,HARD,21.088
+Las Vegas Grand Prix,NOR,McLaren,6,6,30,HARD,HARD,20.662
+Las Vegas Grand Prix,NOR,McLaren,6,6,48,HARD,SOFT,21.213
+Las Vegas Grand Prix,PIA,McLaren,8,7,10,MEDIUM,HARD,27.791
+Las Vegas Grand Prix,PIA,McLaren,8,7,25,HARD,HARD,21.184
+Las Vegas Grand Prix,HUL,Haas F1 Team,9,8,14,MEDIUM,HARD,21.555
+Las Vegas Grand Prix,HUL,Haas F1 Team,9,8,33,HARD,HARD,21.623
+Las Vegas Grand Prix,TSU,RB,7,9,10,MEDIUM,HARD,21.289
+Las Vegas Grand Prix,TSU,RB,7,9,29,HARD,HARD,21.208
+Las Vegas Grand Prix,PER,Red Bull Racing,15,10,17,HARD,MEDIUM,21.42
+Las Vegas Grand Prix,PER,Red Bull Racing,15,10,32,MEDIUM,HARD,21.209
+Las Vegas Grand Prix,ALO,Aston Martin,16,11,4,SOFT,HARD,21.321
+Las Vegas Grand Prix,ALO,Aston Martin,16,11,24,HARD,HARD,21.504
+Las Vegas Grand Prix,MAG,Haas F1 Team,12,12,17,MEDIUM,HARD,21.967
+Las Vegas Grand Prix,ZHO,Kick Sauber,13,13,11,MEDIUM,HARD,22.978
+Las Vegas Grand Prix,ZHO,Kick Sauber,13,13,34,HARD,HARD,21.7
+Las Vegas Grand Prix,COL,Williams,0,14,16,HARD,MEDIUM,21.141
+Las Vegas Grand Prix,COL,Williams,0,14,26,MEDIUM,HARD,21.247
+Las Vegas Grand Prix,STR,Aston Martin,18,15,9,MEDIUM,HARD,34.785
+Las Vegas Grand Prix,STR,Aston Martin,18,15,28,HARD,HARD,21.609
+Las Vegas Grand Prix,LAW,RB,14,16,11,MEDIUM,HARD,21.241
+Las Vegas Grand Prix,LAW,RB,14,16,38,HARD,HARD,20.625
+Las Vegas Grand Prix,OCO,Alpine,11,17,11,MEDIUM,MEDIUM,15.747
+Las Vegas Grand Prix,OCO,Alpine,11,17,12,MEDIUM,HARD,21.074
+Las Vegas Grand Prix,OCO,Alpine,11,17,45,HARD,SOFT,21.922
+Las Vegas Grand Prix,BOT,Kick Sauber,19,18,17,HARD,MEDIUM,21.328
+Las Vegas Grand Prix,BOT,Kick Sauber,19,18,35,MEDIUM,HARD,22.789
+Qatar Grand Prix,VER,Red Bull Racing,2,1,35,MEDIUM,HARD,28.317
+Qatar Grand Prix,VER,Red Bull Racing,2,1,36,HARD,HARD,23.946
+Qatar Grand Prix,VER,Red Bull Racing,2,1,37,HARD,HARD,22.853
+Qatar Grand Prix,LEC,Ferrari,5,2,35,MEDIUM,HARD,28.431
+Qatar Grand Prix,LEC,Ferrari,5,2,36,HARD,HARD,25.662
+Qatar Grand Prix,LEC,Ferrari,5,2,37,HARD,HARD,29.286
+Qatar Grand Prix,PIA,McLaren,4,3,34,MEDIUM,HARD,27.673
+Qatar Grand Prix,PIA,McLaren,4,3,36,HARD,HARD,22.887
+Qatar Grand Prix,PIA,McLaren,4,3,37,HARD,HARD,29.222
+Qatar Grand Prix,RUS,Mercedes,1,4,23,MEDIUM,HARD,32.301
+Qatar Grand Prix,RUS,Mercedes,1,4,35,HARD,HARD,27.797
+Qatar Grand Prix,RUS,Mercedes,1,4,36,HARD,HARD,22.725
+Qatar Grand Prix,RUS,Mercedes,1,4,37,HARD,HARD,34.082
+Qatar Grand Prix,GAS,Alpine,11,5,35,MEDIUM,HARD,28.838
+Qatar Grand Prix,GAS,Alpine,11,5,36,HARD,HARD,22.668
+Qatar Grand Prix,GAS,Alpine,11,5,37,HARD,HARD,30.538
+Qatar Grand Prix,SAI,Ferrari,7,6,34,MEDIUM,HARD,36.129
+Qatar Grand Prix,SAI,Ferrari,7,6,36,HARD,HARD,22.658
+Qatar Grand Prix,SAI,Ferrari,7,6,37,HARD,HARD,34.312
+Qatar Grand Prix,ALO,Aston Martin,8,7,35,MEDIUM,HARD,28.754
+Qatar Grand Prix,ALO,Aston Martin,8,7,36,HARD,MEDIUM,28.539
+Qatar Grand Prix,ALO,Aston Martin,8,7,37,MEDIUM,MEDIUM,32.661
+Qatar Grand Prix,ZHO,Kick Sauber,12,8,35,MEDIUM,HARD,29.774
+Qatar Grand Prix,ZHO,Kick Sauber,12,8,36,HARD,HARD,23.277
+Qatar Grand Prix,ZHO,Kick Sauber,12,8,37,HARD,HARD,34.82
+Qatar Grand Prix,MAG,Haas F1 Team,10,9,27,MEDIUM,HARD,28.596
+Qatar Grand Prix,MAG,Haas F1 Team,10,9,36,HARD,HARD,22.808
+Qatar Grand Prix,MAG,Haas F1 Team,10,9,37,HARD,HARD,33.348
+Qatar Grand Prix,NOR,McLaren,3,10,35,MEDIUM,HARD,28.067
+Qatar Grand Prix,NOR,McLaren,3,10,36,HARD,HARD,25.581
+Qatar Grand Prix,NOR,McLaren,3,10,37,HARD,HARD,28.854
+Qatar Grand Prix,NOR,McLaren,3,10,45,HARD,HARD,36.023
+Qatar Grand Prix,BOT,Kick Sauber,13,11,24,MEDIUM,HARD,28.96
+Qatar Grand Prix,BOT,Kick Sauber,13,11,35,HARD,MEDIUM,28.913
+Qatar Grand Prix,BOT,Kick Sauber,13,11,36,MEDIUM,MEDIUM,28.179
+Qatar Grand Prix,HAM,Mercedes,6,12,34,MEDIUM,HARD,37.996
+Qatar Grand Prix,HAM,Mercedes,6,12,35,HARD,HARD,23.629
+Qatar Grand Prix,HAM,Mercedes,6,12,36,HARD,HARD,26.863
+Qatar Grand Prix,HAM,Mercedes,6,12,47,HARD,HARD,22.735
+Qatar Grand Prix,TSU,RB,14,13,35,MEDIUM,HARD,28.906
+Qatar Grand Prix,TSU,RB,14,13,36,HARD,HARD,22.821
+Qatar Grand Prix,TSU,RB,14,13,37,HARD,HARD,35.897
+Qatar Grand Prix,TSU,RB,14,13,40,HARD,SOFT,29.188
+Qatar Grand Prix,LAW,RB,17,14,35,MEDIUM,HARD,45.045
+Qatar Grand Prix,LAW,RB,17,14,36,HARD,HARD,22.765
+Qatar Grand Prix,LAW,RB,17,14,37,HARD,HARD,26.797
+Qatar Grand Prix,LAW,RB,17,14,40,HARD,SOFT,34.713
+Qatar Grand Prix,ALB,Williams,16,15,35,MEDIUM,SOFT,29.272
+Qatar Grand Prix,ALB,Williams,16,15,36,SOFT,SOFT,22.633
+Qatar Grand Prix,ALB,Williams,16,15,37,SOFT,SOFT,36.522
+Qatar Grand Prix,ALB,Williams,16,15,55,SOFT,SOFT,39.621
+Abu Dhabi Grand Prix,NOR,McLaren,1,1,26,MEDIUM,HARD,21.406
+Abu Dhabi Grand Prix,SAI,Ferrari,3,2,25,MEDIUM,HARD,21.393
+Abu Dhabi Grand Prix,LEC,Ferrari,19,3,20,MEDIUM,HARD,21.933
+Abu Dhabi Grand Prix,HAM,Mercedes,16,4,34,HARD,MEDIUM,21.693
+Abu Dhabi Grand Prix,RUS,Mercedes,6,5,26,MEDIUM,HARD,21.389
+Abu Dhabi Grand Prix,VER,Red Bull Racing,4,6,29,MEDIUM,HARD,32.739
+Abu Dhabi Grand Prix,GAS,Alpine,5,7,14,MEDIUM,HARD,21.987
+Abu Dhabi Grand Prix,HUL,Haas F1 Team,7,8,13,MEDIUM,HARD,21.575
+Abu Dhabi Grand Prix,ALO,Aston Martin,8,9,13,MEDIUM,HARD,23.747
+Abu Dhabi Grand Prix,ALO,Aston Martin,8,9,37,HARD,HARD,22.35
+Abu Dhabi Grand Prix,PIA,McLaren,2,10,4,MEDIUM,HARD,23.581
+Abu Dhabi Grand Prix,PIA,McLaren,2,10,32,HARD,HARD,32.798
+Abu Dhabi Grand Prix,ALB,Williams,18,11,12,MEDIUM,HARD,22.054
+Abu Dhabi Grand Prix,TSU,RB,11,12,22,MEDIUM,HARD,21.809
+Abu Dhabi Grand Prix,ZHO,Kick Sauber,15,13,12,MEDIUM,HARD,22.978
+Abu Dhabi Grand Prix,ZHO,Kick Sauber,15,13,39,HARD,HARD,28.854
+Abu Dhabi Grand Prix,STR,Aston Martin,13,14,11,MEDIUM,HARD,23.265
+Abu Dhabi Grand Prix,STR,Aston Martin,13,14,32,HARD,HARD,22.01
+Abu Dhabi Grand Prix,DOO,Alpine,17,15,22,MEDIUM,HARD,22.066
+Abu Dhabi Grand Prix,MAG,Haas F1 Team,14,16,12,MEDIUM,HARD,26.412
+Abu Dhabi Grand Prix,MAG,Haas F1 Team,14,16,29,HARD,HARD,21.64
+Abu Dhabi Grand Prix,MAG,Haas F1 Team,14,16,30,HARD,SOFT,22.732
+Abu Dhabi Grand Prix,MAG,Haas F1 Team,14,16,55,SOFT,SOFT,22.032
+Abu Dhabi Grand Prix,LAW,RB,12,17,23,MEDIUM,HARD,23.456
+Abu Dhabi Grand Prix,LAW,RB,12,17,24,HARD,HARD,22.486
+Abu Dhabi Grand Prix,LAW,RB,12,17,29,HARD,HARD,32.26
