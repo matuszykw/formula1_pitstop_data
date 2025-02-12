@@ -3,7 +3,6 @@
 DELETE FROM pit_stop_data
 WHERE PitDuration > 150;
 
-
 -- Average pit stop time for a team
 SELECT Team, round(AVG(PitDuration), 3) AS AveragePitTime
 FROM pit_stop_data
