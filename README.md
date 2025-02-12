@@ -8,3 +8,7 @@ This project analyzes Formula 1 pit stop data to explore trends in pit stop time
 - SQL (MySQL)
 - Tableau
 - FastF1 (API for Formula 1 data)
+
+## Results
+- The analysis includes pit stop times for each driver and team.
+- Visualizations show the fastest and slowest teams across the season.
